@@ -5,7 +5,7 @@
   
   body {
     font-family: "Poppins", sans-serif !important;
-    background-color: #ebf2ff;
+    background-color: #D8F1D0;
   }
   
   p {
@@ -37,7 +37,7 @@
   }
   
   .task__card:hover {
-    border: 1px solid #4582ec;
+    border: 1px solid #397aeb;
   }
   
   .task__card:hover .task__card__title {
